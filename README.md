@@ -7,7 +7,7 @@ The purpose of this project was to use ML Neural Networks to analyze charity dat
 ## Results
    
 ### Data Preprocessing
-
+ 
 - Target variables: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT
 - Feature variable: IS_SUCCESSFUL
 - Removed variables: EIN, NAME
