@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this project was to use ML Neural Networks to analyze charity data to determine if a cause will be successful or not. To accomplish this, I preprocessed the data; compiled, trained, and evaluated the neural network model; and finally optimized the model. I am attempting to reach a target model performance of 75%.
+The purpose of this project was to use ML Neural Networks to analyze charity data to determine if a cause will be successful or not. To accomplish this, I preprocessed the data; compiled, trained, and evaluated the neural network model; and finally optimized the model. I am attempting to reach a target model performance of 75%.   
 
 ## Results
 
