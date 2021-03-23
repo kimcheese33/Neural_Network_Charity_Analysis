@@ -11,7 +11,7 @@ The purpose of this project was to use ML Neural Networks to analyze charity dat
 - Target variables: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT
 - Feature variable: IS_SUCCESSFUL
 - Removed variables: EIN, NAME
-
+   
 ### Compiling, Training, and Evaluation the Model
 
 - For my first attempt, I used 2 hidden layers with 80 neurons in the first and 30 neurons in the second. I used a ReLU activation function on the hidden layers and a Sigmoid function on the output layer
