@@ -27,3 +27,4 @@ I was not able to get to the target model performance of 75%. However, I was abl
 Overall, the model improved the most when I changed the activation function. The model got worse when I added hidden layers, neurons, and epochs. Next time I would recommend using a logistic regression model or SVM instead.
   
 
+    
