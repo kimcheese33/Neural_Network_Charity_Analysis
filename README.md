@@ -14,7 +14,7 @@ The purpose of this project was to use ML Neural Networks to analyze charity dat
    
 ### Compiling, Training, and Evaluation the Model
 
-- For my first attempt, I used 2 hidden layers with 80 neurons in the first and 30 neurons in the second. I used a ReLU activation function on the hidden layers and a Sigmoid function on the output layer
+- For my first attempt, I used 2 hidden layers with 80 neurons in the first and 30 neurons in the second. I used a ReLU activation function on the hidden layers and a Sigmoid function on the output layer 
 - For my second attempt, I used 3 hidden layers with the same neurons in the first two and 20 neurons in the third. I used ReLU activation function for the third hidden layer
 - For my third attempt, I went back to hidden layers, but changed the neurons. I had 90 in the first and 30 in the second. The activation functions were the same
 - For my fourth attempt, I changed everything back to be the same as the first attempt. I changed the epochs to go from 100 to 150
